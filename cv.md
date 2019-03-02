@@ -20,3 +20,10 @@ Please find my code examples by links below
  - https://github.com/obogatyreva/socialnetwork/blob/develop/src/components/PhotosPage/PhotosPage.js
  - https://github.com/obogatyreva/socialnetwork/blob/develop/src/components/rootcomponents/rootcomponent.js
  - https://github.com/obogatyreva/socialnetwork/blob/develop/src/App.js
+## Experience
+Project developed by myself from scratch [Social Network](https://github.com/obogatyreva/socialnetwork/tree/develop)
+## __Education__
+Courses that I successfully passed:
+- JavaScript from scratch [IT INCUBATOR](https://it-incubator.by)
+- <https://learn.javascript.ru>
+- <http://code.mu>
