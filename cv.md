@@ -27,3 +27,7 @@ Courses that I successfully passed:
 - JavaScript from scratch [IT INCUBATOR](https://it-incubator.by)
 - <https://learn.javascript.ru>
 - <http://code.mu>
+## __English__
+level (speaking/writing): _intermediate_
+
+I am teacher of foreign languages (primary - German, English - secondary) according my diploma.
