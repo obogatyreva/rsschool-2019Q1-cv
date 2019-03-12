@@ -1,0 +1,23 @@
+body {
+	width: 1024px;
+	margin: 0 auto;
+	padding: 0;
+  font-family: "Helvetica", "Arial", sans-serif;	
+}
+
+h2, h3 {
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+h1 {
+	text-align: center;
+}
+
+.block-2 {
+	margin: 30px;
+}
+
+.user {
+  text-decoration: none;
+}
