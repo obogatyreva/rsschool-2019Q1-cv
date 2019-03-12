@@ -1,0 +1,44 @@
+body {
+  width: 1024px;
+  margin: 0 auto;
+  padding: 0;
+  font-family: "Helvetica", "Arial", sans-serif;	
+}
+
+h2, h3 {
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+h1 {
+  text-align: center;
+}
+
+.block-2 {
+  margin: 30px;
+}
+
+.user {
+  text-decoration: none;
+}
+
+.img {
+  padding: 5px;
+  text-shadow: 1px;
+}		
+
+header {
+  position: relative;
+  display: flex;
+  margin-top: 8px;
+  justify-content: baseline;
+}
+
+p.text {
+  text-decoration: none;
+  text-align: justify;
+}
+
+a:hover {
+  color: rgb(12, 23, 53);
+}
