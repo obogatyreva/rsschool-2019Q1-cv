@@ -21,3 +21,24 @@ h1 {
 .user {
   text-decoration: none;
 }
+
+.img {
+  padding: 5px;
+	text-shadow: 1px;
+}		
+
+header {
+  position: relative;
+  display: flex;
+  margin-top: 8px;
+  justify-content: baseline;
+}
+
+p.text {
+  text-decoration: none;
+  text-align: justify;
+}
+
+a:hover {
+  color: rgb(12, 23, 53);
+}
